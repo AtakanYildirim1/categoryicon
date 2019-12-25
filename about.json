@@ -3,7 +3,7 @@
   "about_url": "https://github.com/pmusaraj/discourse-category-icons",
   "license_url": "https://github.com/pmusaraj/discourse-category-icons/blob/master/LICENSE",
   "component": "true"  ,
-  "assets": {
+},
+"assets": {
    "icons-sprite": "/assets/sup.svg"
- },
-}
+ }
