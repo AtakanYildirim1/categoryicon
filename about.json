@@ -4,7 +4,7 @@
   "license_url": "https://github.com/pmusaraj/discourse-category-icons/blob/master/LICENSE",
   "component": "true"  ,
   "assets": {
-   "icons-sprite": "/assets/sup.svg",
+   "sup": "/assets/sup.svg",
    "icons-sprite": "/assets/fb.svg"
  }
 }
