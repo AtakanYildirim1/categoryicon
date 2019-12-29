@@ -5,6 +5,8 @@
   "component": "true"  ,
   "assets": {
    "icons-sprite": "/assets/sup.svg"
-   "icons-sprite": "/assets/fb-espor.svg"
+ }
+  "assets": {
+   "icons-sprite": "/assets/sup.svg"
  }
 }
